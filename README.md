@@ -1,6 +1,6 @@
 # OpenStack SR-IOV POC
 
-Using RDO's packstack
+https://github.com/m4r1k/nfvi_lab/
 
 ## Requirements
 - Linux Machine with _enough_ CPU & Memory
@@ -13,7 +13,3 @@ Using RDO's packstack
 - ```vagrant plugin install vagrant-libvirt```
 - ```vagrant up```
 
-# References
-- https://www.rdoproject.org/install/packstack/
-- https://www.rdoproject.org/install/adding-a-compute-node/
-- https://docs.openstack.org/neutron/ussuri/admin/config-sriov.html
