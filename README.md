@@ -1,5 +1,7 @@
 # OpenStack SR-IOV POC
 
+Using RDO's packstack
+
 ## Requirements
 - Linux Machine with _enough_ CPU & Memory
 - Nested Virtualization Enabled
@@ -13,4 +15,5 @@
 
 # References
 - https://www.rdoproject.org/install/packstack/
+- https://www.rdoproject.org/install/adding-a-compute-node/
 - https://docs.openstack.org/neutron/ussuri/admin/config-sriov.html
